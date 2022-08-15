@@ -6,7 +6,7 @@ The "Digital Inline Holographic Microscopy.py" script was originally written to 
 iGEM (International Genetically Engineered Machine) competition in 2017.  
   
 The original function (taking images and creating a hologram for microscopy) was achieved in LabVIEW.  
-(That code can be found at https://sites.google.com/a/york.ac.uk/bis_lab/downloads)  
+(See Credits section below.)  
   
 However, the competition asked that any software contributions be made in open source languages.  
 Hence the translation into Python.
@@ -44,3 +44,25 @@ Designate a directory for the script to save your hologram into.
 Wait for the code to finish running and you're good to go!  
   
 Congratulations on your new hologram!  
+
+## Credits
+Author: Joseph McKeown  
+  
+Special thanks to Dr. Laurence Wilson, who wrote the original LabVIEW code (available at https://sites.google.com/a/york.ac.uk/bis_lab/downloads).
+
+## Licence
+
+Copyright (C) 2022 Joseph McKeown
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,      
+but WITHOUT ANY WARRANTY; without even the implied warranty of       
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the        
+GNU General Public License for more details.                         
+                                                                     
+You should have received a copy of the GNU General Public License    
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
